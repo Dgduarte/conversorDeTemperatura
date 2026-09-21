@@ -38,4 +38,4 @@ Um conversor interativo de escalas termométricas via linha de comando (CLI) des
 
 1. Clone ou baixe este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/conversor-temperatura.git
+   git clone https://github.com/dgduarte/conversor-temperatura.git
